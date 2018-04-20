@@ -1,0 +1,14 @@
+{
+    "dbConfig": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "dbName": "ecommerce_happydeliver"
+    },
+    "port": {
+        "portNumber": "5000"
+    },
+    "nodata": {
+        "nodataFound": "No Data Found"
+    }
+}
